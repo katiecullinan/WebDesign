@@ -1,0 +1,72 @@
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<!-- descriptive information about the document -->
+	<title></title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- set up viewport for responsive -->
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<!-- stylesheets -->
+	<link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+
+	<div class="container">
+	<!-- page content goes inside the container -->
+
+		<h1>Grace's Potato Chip Cookies </h1>
+
+		<p class="intro">
+			A recipe for potato chip cookies that my great aunt Grace makes for Christmas. 
+        	<br>
+        <em>Makes about 40 cookies.</em></p>
+     
+
+		<ul>
+			<li>1 cup (2 sticks) unsalted butter <em>at room temperature</em></li>
+            <li>2 cups flour</li>
+			<li>1 cup sugar</li>
+			<li>1 teaspoon vanilla extract</li>
+            <li>1/4 tsp salt</li>
+            <li>1/2 cup pecans <em>chopped</em></li>
+            <li>1/2 cup potato chips <em>crushed</em></li>
+                           
+		</ul>
+        <p>Chocolate Dip Finish (optional)</p>
+        <ul>
+            <li>4 ounces semi-sweet or bitterweet chocolate <em>finely chopped</em></li>
+            <li>1 tsp butter, canola oil or vegetable shortening</li>
+            
+        </ol>
+        
+        <h3>Instructions</h3>
+       
+            <p>Preheat your oven to <strong>350</strong> degrees F. Line two baking sheets with parchment paper and set aside. In a large bowl, mix together the <strong>butter</strong> with <em>1/2 cup</em> of the <strong>sugar</strong> until lightly and fluffy. Next, mix in the <strong>vanilla</strong> and <strong>salt</strong> until smooth. Add the <strong>pecans</strong>, crushed <strong>potato chips</strong> and <strong>flour</strong> together and mix until just combined. </p>
+
+<p>Place the remaining <em>1/2 cup</em> <strong>sugar</strong> in a small bowl. Scoop a tablespoon-sized mound of dough and form it into a small ball with the palms of your hands. Roll the ball in the remaining sugar until coated. Place cookies on baking sheet, about <strong>1 inch apart.</strong></p>
+
+<p>Bake cookies until lightly golden at the edges, about <strong>15 minutes</strong>. Transfer to cool on a wire rack.</p>
+
+<p>If dipping in chocolate, melt chocolate with butter, oil or shortening in a double boiler or in short bursts in the microwave. Stir until smooth. Dip half of each fully cooled cookie in the chocolate, and let dry and harden on a wire rack.</p>
+        
+        
+        
+       
+
+
+	</div><!-- end container -->
+
+	<!-- jQuery library for JavaScript -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="assets/js/jquery-1.9.1.min.js"><\/script>')</script>
+	<!-- Load JavaScript at the end of the document -->
+
+</body>
+</html>
